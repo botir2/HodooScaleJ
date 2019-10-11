@@ -1,0 +1,2 @@
+include ':app', ':sociallogin', ':line-sdk-4.0.10'
+rootProject.name='HodooScaleJ'

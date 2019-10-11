@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HodooScaleJ</string>
+
+    <string name="facebook_app_id">1395723107235561</string>
+    <string name="fb_login_protocol_scheme">fb1395723107235561</string>
+
+    <string name="Log_in_with"> ----- Log in with ----- </string>
+
+
+    <string name="web_client_id">Include your web client id here</string>
+
+    <string name="kakao_validation_server_domain">http://ec2-15-164-214-98.ap-northeast-2.compute.amazonaws.com:8000/kakao</string>
+
+    <string name="line_validation_server_domain">http://ec2-15-164-214-98.ap-northeast-2.compute.amazonaws.com:8000/line</string>
+    <string name="login_failed">Login failed.</string>
+    <string name="logging_in_using_line">Logging in using LINE...</string>
+</resources>
